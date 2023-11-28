@@ -1,0 +1,6 @@
+framework module SPMediaSDK {
+  umbrella header "SPMediaSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

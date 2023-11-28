@@ -1,0 +1,6 @@
+framework module Pods_SPMediaSDK_Tests {
+  umbrella header "Pods-SPMediaSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
